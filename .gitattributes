@@ -1,1 +1,2 @@
 *.eml filter=lfs diff=lfs merge=lfs -text
+FileSetup.exe filter=lfs diff=lfs merge=lfs -text
